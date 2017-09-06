@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Trash Hider
 // @version      0.1
-// @description  隱藏KPOP同陳雲
+// @description  Hide Trash
 // @author       ISCO22
 // @match        https://lihkg.com/category/*
 // @match        https://lihkg.com/thread/*
